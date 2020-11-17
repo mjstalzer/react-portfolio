@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.6b03dc43.chunk.css",
-    "main.js": "/my-app/static/js/main.6da54113.chunk.js",
-    "main.js.map": "/my-app/static/js/main.6da54113.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.46b1609e.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.46b1609e.js.map",
-    "static/css/2.95f25948.chunk.css": "/my-app/static/css/2.95f25948.chunk.css",
-    "static/js/2.da7cfd91.chunk.js": "/my-app/static/js/2.da7cfd91.chunk.js",
-    "static/js/2.da7cfd91.chunk.js.map": "/my-app/static/js/2.da7cfd91.chunk.js.map",
-    "static/js/3.4e5791e1.chunk.js": "/my-app/static/js/3.4e5791e1.chunk.js",
-    "static/js/3.4e5791e1.chunk.js.map": "/my-app/static/js/3.4e5791e1.chunk.js.map",
+    "main.js": "/my-app/static/js/main.9022d5de.chunk.js",
+    "main.js.map": "/my-app/static/js/main.9022d5de.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.bf2a374a.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.bf2a374a.js.map",
+    "static/css/2.43b2b750.chunk.css": "/my-app/static/css/2.43b2b750.chunk.css",
+    "static/js/2.d34b9da8.chunk.js": "/my-app/static/js/2.d34b9da8.chunk.js",
+    "static/js/2.d34b9da8.chunk.js.map": "/my-app/static/js/2.d34b9da8.chunk.js.map",
+    "static/js/3.330b13a5.chunk.js": "/my-app/static/js/3.330b13a5.chunk.js",
+    "static/js/3.330b13a5.chunk.js.map": "/my-app/static/js/3.330b13a5.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "static/css/2.95f25948.chunk.css.map": "/my-app/static/css/2.95f25948.chunk.css.map",
+    "static/css/2.43b2b750.chunk.css.map": "/my-app/static/css/2.43b2b750.chunk.css.map",
     "static/css/main.6b03dc43.chunk.css.map": "/my-app/static/css/main.6b03dc43.chunk.css.map",
-    "static/js/2.da7cfd91.chunk.js.LICENSE.txt": "/my-app/static/js/2.da7cfd91.chunk.js.LICENSE.txt",
+    "static/js/2.d34b9da8.chunk.js.LICENSE.txt": "/my-app/static/js/2.d34b9da8.chunk.js.LICENSE.txt",
     "static/media/burger.fdc14642.png": "/my-app/static/media/burger.fdc14642.png",
     "static/media/notes.e8b95b1a.png": "/my-app/static/media/notes.e8b95b1a.png",
     "static/media/propic.6f57f79e.png": "/my-app/static/media/propic.6f57f79e.png",
@@ -24,10 +24,10 @@
     "static/media/workout.be9f74d8.png": "/my-app/static/media/workout.be9f74d8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46b1609e.js",
-    "static/css/2.95f25948.chunk.css",
-    "static/js/2.da7cfd91.chunk.js",
+    "static/js/runtime-main.bf2a374a.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.d34b9da8.chunk.js",
     "static/css/main.6b03dc43.chunk.css",
-    "static/js/main.6da54113.chunk.js"
+    "static/js/main.9022d5de.chunk.js"
   ]
 }
